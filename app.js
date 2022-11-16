@@ -1,4 +1,4 @@
-// app.js
+// app.js postgres
 const postgres = require('postgres');
 require('dotenv').config();
 
